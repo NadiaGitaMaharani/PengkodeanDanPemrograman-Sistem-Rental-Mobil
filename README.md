@@ -1,33 +1,24 @@
-Source Code Aplikasi Rental Mobil PHP & MySQL, tambah data, update / edit data, dan hapus data. User interface menggunakan Template Bootstrap.  Aplikasi kali ini cocok untuk yang sedang belajar PHP & MySQL dasar, karena pada aplikasi ini anda dapat belajar tentang cara membuat login, kemudian membuat menu-menu yang terdapat pada bagian halaman admin seputar aplikasi, membuat CRUD data mobil, data transaksi booking dan lain nya.
+# NADIA'S CAR RENTAL
+Ini adalah website untuk menyewa berbagai mobil yang mudah diakses oleh admin maupun pelanggan
 
-## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
-
-### Link Blog : <a href="https://www.codekop.com/products/source-code-aplikasi-rental-mobil-php-mysql-7.html">https://www.codekop.com/products/source-code-aplikasi-rental-mobil-php-mysql-7.html</a>
-
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
-
-## Fitur-fitur pada Aplikasi pada kali ini :
-
-Login & Daftar Akun
-- Modul Mobil
-- Modul Booking
-- Modul Peminjaman dan Pengembalian 
-- Informasi Website dan Aplikasi
-- DLL
-
-## Untuk Login Admin :
-
+<b>Login admin</b> <br>
 Username : admin
-Password : demo 
+Password : demo
 
-## Untuk Login Pengguna :
-
+<b>Login pelanggan</b> <br>
 Username : demo
 Password : demo
 
-## Screenshot
-<img src="https://www.codekop.com/storage/filemanager/1/6cab9b2bfde09c7e213ebe73e4e2f183.png">
-<img src="https://www.codekop.com/storage/filemanager/1/2a668eed571730442eca9b29781d09d3.png">
-<img src="https://www.codekop.com/storage/filemanager/1/25694806a4bc2da906303abf185853a6.png">
-<img src="https://www.codekop.com/storage/filemanager/1/414f52327e86fb3421f1d16d8960b41b.png">
-<img src="https://www.codekop.com/storage/filemanager/1/e2fba4822340ec35eb87de637ad4d79d.png">
+# REFERENSI
+https://github.com/fauzan1892/rental_mobil.git
+
+# PERBANDINGAN
+## Home
+### Asli 1
+![Screenshot 2024-04-17 044326](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/19969420-a044-406d-9024-a9318734df59)
+### Asli 2
+![Screenshot 2024-04-17 044413](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/1f91d247-73b8-4bee-809d-fd55fabbcae0)
+### Modifikasi 1
+![Screenshot 2024-04-17 062710](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/d5312ccb-1d62-49ff-b8dd-f72a725a46dd)
+### Modifikasi 2
+![Screenshot 2024-04-17 062724](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/6f713f27-d488-4d48-bc0d-1cedd570074c)
