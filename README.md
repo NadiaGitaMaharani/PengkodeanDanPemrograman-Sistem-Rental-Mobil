@@ -19,7 +19,7 @@ https://github.com/fauzan1892/rental_mobil.git
 ### Asli 2
 ![Screenshot 2024-04-17 044413](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/1f91d247-73b8-4bee-809d-fd55fabbcae0)
 ### Modifikasi 1
-
+![Screenshot 2024-04-17 064855](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/5a45d70c-4b24-40c1-b9d6-f8f2577fdfb3)
 ### Modifikasi 2
 ![Screenshot 2024-04-17 062724](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/6f713f27-d488-4d48-bc0d-1cedd570074c)
 
@@ -64,3 +64,6 @@ https://github.com/fauzan1892/rental_mobil.git
 ![Screenshot 2024-04-17 063045](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/022eabc7-3d8d-4635-b1bf-7f397533ae5e)
 ### Detail Booking Modifikasi
 ![Screenshot 2024-04-17 063102](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/d4d199ec-be14-4b12-af7d-8dd49806de68)
+
+# ERD
+![image](https://github.com/NadiaGitaMaharani/nadias-car-rental/assets/167200610/ce62687a-32aa-4a30-b4a2-b0b895f7d2c7)
