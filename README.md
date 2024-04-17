@@ -1,5 +1,5 @@
 # NADIA'S CAR RENTAL
-Ini adalah website untuk menyewa berbagai mobil yang mudah diakses oleh admin maupun pelanggan
+Berikut adalah website untuk menyewa berbagai mobil yang mudah diakses oleh admin maupun pelanggan
 
 <b>Login admin</b> <br>
 Username : admin
