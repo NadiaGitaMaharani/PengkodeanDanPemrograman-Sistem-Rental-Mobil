@@ -1,3 +1,7 @@
+# Nama : Nadia Gita Maharani
+# NIM : 12030122130100
+# Kelas : F
+
 # NADIA'S CAR RENTAL
 Berikut adalah website untuk menyewa berbagai mobil yang mudah diakses oleh admin maupun pelanggan
 
